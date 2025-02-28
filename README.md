@@ -19,7 +19,7 @@ from pygame import Rect
 ## 🔧 Installation
 Make sure you have **Python 3.12.1 & PyGame** installed, then clone the repository:
 ```bash
-git clone https://github.com/Roos-01/Draw2D.git
+git clone https://github.com:Roos-01/Draw2D.git
 cd Draw2D
 ```
 🎨 How to Use
