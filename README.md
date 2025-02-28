@@ -9,14 +9,19 @@ A simple Python script that allows users to draw and create a rotating animation
 
 https://github.com/user-attachments/assets/ac27f86a-fc7c-426c-ac20-ebe592a4ece8
 
-
+# Requirements
+``` bash
+import pygame
+import math
+import sys
+from pygame import Rect
+``` 
 ## 🔧 Installation
 Make sure you have **Python 3.12.1 & PyGame** installed, then clone the repository:
 ```bash
 git clone https://github.com/Roos-01/Draw2D.git
 cd Draw2D
 ```
-
 🎨 How to Use
 Run the script:
 bash
